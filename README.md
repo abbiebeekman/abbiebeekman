@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi Im Abbie Beekman 👋
+🔭 I’m currently working on my IT Infrastructure Bachelor of Applied Science Degree at the University of Minnesota
 
 <!--
 **abbiebeekman/abbiebeekman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
